@@ -11,7 +11,10 @@ Finally, the BERT-CRF network will output the first round of splitting results, 
 # Expansion
 A Deep Learning-Based Identifier Expansion Method
 
-Preprocess the dataset through dataprocess.py
+Preprocess the dataset through dataprocess.py. The file has detailed data processing steps
 Train the model from NER and SIM files
 Predict the extended identifier through the predict_pro.py file
 # Datasets
+We have uploaded the datasets used for this study to the datasets file, where BT11, Jhotdraw, Binkley, Lynx are the split study datasets. abbreviation_expansions_data is the expansion study dataset.
+# Plug-in
+The Plug-in file holds the plugin development source code. We only provide the plug-in development code, to use the plug-in, you need to train a deep learning model for the identifier splitting and extension of the domain you need by yourself following the steps above.
