@@ -1,1 +1,0 @@
-subword-nmt learn-joint-bpe-and-vocab -i .\Dataset.txt -o .\code.file --write-vocabulary vocab.txt
