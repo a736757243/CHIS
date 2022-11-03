@@ -26,7 +26,7 @@ After training the NER and SIM models, you can build a Q&A system to predict the
 # Datasets
 We have uploaded the datasets used for this study to the datasets file, where BT11, Jhotdraw, Binkley, Lynx are the split study datasets. abbreviation_expansions_data is the expansion study dataset.
 # Plug-in
-The Plug-in file holds the plugin development source code. We only provide the plug-in development code, to use the plug-in, you need to train a deep learning model for the identifier splitting and extension of the domain you need by yourself following the steps above.
+We provide the jar package file of the plugin, to use the plug-in, you need to train a deep learning model for the identifier splitting and extension of the domain you need by yourself following the steps above.
 
 When you have completed the training of the bert model.
 
