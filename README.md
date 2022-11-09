@@ -2,7 +2,7 @@ BEQAIN: An Effective and Efficient Identifier Normalization Approach
 
 --------------------------------------------------------------------------
 
-This tool implements a deep learning based approach to identifier normalization with the help of a bert pre-trained model, adding pre-processing and post-processing and programming context information to enable identifier normalization in e.g. IDEA compilers. To use this tool, you need to complete the following steps.
+This tool implements a deep learning based approach to identifier normalization with the help of a bert pre-trained model, adding pre-processing and post-processing and programming context information to enable identifier normalization in e.g. IDEA compilers. To use this tool, you need to complete the following steps. BEQAIN: An Effective and Efficient Identifier Normalization Approach
 Requirements:
 --------------------------------------------------------------------------
 Windows Operating System, JDK 1.6.7+
